@@ -2,7 +2,9 @@
 
 ## Download this binary and all the libraries: 
 ### Click Code > Local > Download Zip 
-#### Note: the Code button is located at the top of the page. 
+
+## Note: 
+the Code button is located at the top of the page. 
 
 This console app will convert a PDF into a MineCraft book. 
 
